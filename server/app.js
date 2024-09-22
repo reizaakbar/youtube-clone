@@ -35,4 +35,5 @@ const server = new ApolloServer({
     },
   });
   console.log(`🚀  Server ready at: ${url}`);
+  // ""
 })();
